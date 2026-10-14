@@ -1,0 +1,19 @@
+from __future__ import annotations
+
+import os
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / "data"
+PROCESSED_DATA_PATH = DATA_DIR / "processed" / "cases_seed.json"
+
+AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT", "")
+AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY", "")
+AZURE_OPENAI_API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION", "2024-02-15-preview")
+AZURE_OPENAI_EMBEDDING_DEPLOYMENT = os.getenv("AZURE_OPENAI_EMBEDDING_DEPLOYMENT", "")
+EMBEDDING_FALLBACK_DIM = int(os.getenv("EMBEDDING_FALLBACK_DIM", "256"))
+
+AZURE_OPENAI_CHAT_DEPLOYMENT = os.getenv("AZURE_OPENAI_CHAT_DEPLOYMENT", "")
+NARRATIVE_MODE = os.getenv("NARRATIVE_MODE", "hybrid")
+MAX_ALTERNATIVES = int(os.getenv("MAX_ALTERNATIVES", "3"))
+AZURE_OPENAI_RESPONSES_URL = os.getenv("AZURE_OPENAI_RESPONSES_URL", "")

@@ -1,0 +1,2706 @@
+[
+  {
+    "id": "IN-SC-1950-AKM-GOPALAN",
+    "title": "A.K. Gopalan v. State of Madras",
+    "court": "Supreme Court of India",
+    "year": 1950,
+    "summary": "Early constitutional liberty judgment on preventive detention and Article 21 interpretation.",
+    "citations": []
+  },
+  {
+    "id": "IN-SC-1973-KESAVANANDA",
+    "title": "Kesavananda Bharati v. State of Kerala",
+    "court": "Supreme Court of India",
+    "year": 1973,
+    "summary": "Established the basic structure doctrine and limits on Parliament's amending power.",
+    "citations": [
+      "IN-SC-1950-AKM-GOPALAN"
+    ]
+  },
+  {
+    "id": "IN-SC-1978-MANEKA-GANDHI",
+    "title": "Maneka Gandhi v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 1978,
+    "summary": "Expanded due process style fairness under Article 21 and linked Articles 14, 19 and 21.",
+    "citations": [
+      "IN-SC-1973-KESAVANANDA",
+      "IN-SC-1950-AKM-GOPALAN"
+    ]
+  },
+  {
+    "id": "IN-SC-2017-PUTTASWAMY",
+    "title": "K.S. Puttaswamy v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2017,
+    "summary": "Recognized privacy as a fundamental right and reinforced dignity-centered constitutional interpretation.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1973-KESAVANANDA",
+      "IN-SC-1950-AKM-GOPALAN"
+    ]
+  },
+  {
+    "id": "IN-SC-2018-NAVTEJ",
+    "title": "Navtej Singh Johar v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2018,
+    "summary": "Decriminalized consensual same-sex relations by applying privacy, dignity and equality principles.",
+    "citations": [
+      "IN-SC-2017-PUTTASWAMY",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2018-AADHAAR",
+    "title": "K.S. Puttaswamy (Aadhaar) v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2018,
+    "summary": "Evaluated digital identity architecture against proportionality, privacy and welfare-governance concerns.",
+    "citations": [
+      "IN-SC-2017-PUTTASWAMY",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-SC-2019-SABARIMALA-REVIEW",
+    "title": "Sabarimala Review Order",
+    "court": "Supreme Court of India",
+    "year": 2019,
+    "summary": "Addressed constitutional morality, religious freedom, equality and scope of review jurisdiction.",
+    "citations": [
+      "IN-SC-1973-KESAVANANDA",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-SC-2022-PMLA",
+    "title": "Vijay Madanlal Choudhary v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2022,
+    "summary": "Reviewed anti-money-laundering procedure under fairness, liberty and statutory interpretation tests.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1950-AKM-GOPALAN"
+    ]
+  },
+  {
+    "id": "IN-SC-2023-SAME-SEX-MARRIAGE",
+    "title": "Supriyo @ Supriya Chakraborty v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2023,
+    "summary": "Considered marriage equality claims through privacy, dignity, equality and institutional-competence reasoning.",
+    "citations": [
+      "IN-SC-2018-NAVTEJ",
+      "IN-SC-2017-PUTTASWAMY",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1973-KESAVANANDA",
+      "IN-SC-1950-AKM-GOPALAN"
+    ]
+  },
+  {
+    "id": "IN-SC-1980-MINERVA-MILLS",
+    "title": "Minerva Mills v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 1980,
+    "summary": "Constitutional bench-level reasoning on rights, fairness, and institutional constitutional balance in Minerva Mills v. Union of India.",
+    "citations": [
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1992-INDRA-SAWHNEY",
+    "title": "Indra Sawhney v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 1992,
+    "summary": "Constitutional bench-level reasoning on rights, fairness, and institutional constitutional balance in Indra Sawhney v. Union of India.",
+    "citations": [
+      "IN-SC-1973-KESAVANANDA",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-SC-2014-NALSA",
+    "title": "National Legal Services Authority v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2014,
+    "summary": "Constitutional bench-level reasoning on rights, fairness, and institutional constitutional balance in National Legal Services Authority v. Union of India.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1985-OLGA-TELLIS",
+    "title": "Olga Tellis v. Bombay Municipal Corporation",
+    "court": "Supreme Court of India",
+    "year": 1985,
+    "summary": "Constitutional bench-level reasoning on rights, fairness, and institutional constitutional balance in Olga Tellis v. Bombay Municipal Corporation.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1981-PRIVACY-001",
+    "title": "Re Privacy Principles 1981 (1)",
+    "court": "Bombay High Court",
+    "year": 1981,
+    "summary": "Re Privacy Principles 1981 (1) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1982-EQUALITY-002",
+    "title": "Re Equality Principles 1982 (2)",
+    "court": "Karnataka High Court",
+    "year": 1982,
+    "summary": "Re Equality Principles 1982 (2) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1981-PRIVACY-001",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1983-CRIMINAL-JUSTICE-003",
+    "title": "Re Criminal Justice Principles 1983 (3)",
+    "court": "Madras High Court",
+    "year": 1983,
+    "summary": "Re Criminal Justice Principles 1983 (3) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1982-EQUALITY-002",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1984-FREE-SPEECH-004",
+    "title": "Re Free Speech Principles 1984 (4)",
+    "court": "Calcutta High Court",
+    "year": 1984,
+    "summary": "Re Free Speech Principles 1984 (4) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1983-CRIMINAL-JUSTICE-003",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1985-FEDERALISM-005",
+    "title": "Re Federalism Principles 1985 (5)",
+    "court": "Kerala High Court",
+    "year": 1985,
+    "summary": "Re Federalism Principles 1985 (5) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1984-FREE-SPEECH-004",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1986-WELFARE-RIGHTS-006",
+    "title": "Re Welfare Rights Principles 1986 (6)",
+    "court": "Supreme Court of India",
+    "year": 1986,
+    "summary": "Re Welfare Rights Principles 1986 (6) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1985-FEDERALISM-005",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1987-PRIVACY-007",
+    "title": "Re Privacy Principles 1987 (7)",
+    "court": "Bombay High Court",
+    "year": 1987,
+    "summary": "Re Privacy Principles 1987 (7) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1986-WELFARE-RIGHTS-006",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1988-EQUALITY-008",
+    "title": "Re Equality Principles 1988 (8)",
+    "court": "Karnataka High Court",
+    "year": 1988,
+    "summary": "Re Equality Principles 1988 (8) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1987-PRIVACY-007",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1989-CRIMINAL-JUSTICE-009",
+    "title": "Re Criminal Justice Principles 1989 (9)",
+    "court": "Madras High Court",
+    "year": 1989,
+    "summary": "Re Criminal Justice Principles 1989 (9) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1983-CRIMINAL-JUSTICE-003",
+      "IN-HC-1988-EQUALITY-008",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1990-FREE-SPEECH-010",
+    "title": "Re Free Speech Principles 1990 (10)",
+    "court": "Calcutta High Court",
+    "year": 1990,
+    "summary": "Re Free Speech Principles 1990 (10) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1989-CRIMINAL-JUSTICE-009",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1991-FEDERALISM-011",
+    "title": "Re Federalism Principles 1991 (11)",
+    "court": "Kerala High Court",
+    "year": 1991,
+    "summary": "Re Federalism Principles 1991 (11) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1990-FREE-SPEECH-010",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1992-WELFARE-RIGHTS-012",
+    "title": "Re Welfare Rights Principles 1992 (12)",
+    "court": "Supreme Court of India",
+    "year": 1992,
+    "summary": "Re Welfare Rights Principles 1992 (12) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1991-FEDERALISM-011",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1986-WELFARE-RIGHTS-006"
+    ]
+  },
+  {
+    "id": "IN-HC-1993-PRIVACY-013",
+    "title": "Re Privacy Principles 1993 (13)",
+    "court": "Bombay High Court",
+    "year": 1993,
+    "summary": "Re Privacy Principles 1993 (13) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1992-WELFARE-RIGHTS-012",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1994-EQUALITY-014",
+    "title": "Re Equality Principles 1994 (14)",
+    "court": "Karnataka High Court",
+    "year": 1994,
+    "summary": "Re Equality Principles 1994 (14) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1993-PRIVACY-013",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1995-CRIMINAL-JUSTICE-015",
+    "title": "Re Criminal Justice Principles 1995 (15)",
+    "court": "Madras High Court",
+    "year": 1995,
+    "summary": "Re Criminal Justice Principles 1995 (15) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1989-CRIMINAL-JUSTICE-009",
+      "IN-HC-1994-EQUALITY-014",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1996-FREE-SPEECH-016",
+    "title": "Re Free Speech Principles 1996 (16)",
+    "court": "Calcutta High Court",
+    "year": 1996,
+    "summary": "Re Free Speech Principles 1996 (16) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1995-CRIMINAL-JUSTICE-015",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1997-FEDERALISM-017",
+    "title": "Re Federalism Principles 1997 (17)",
+    "court": "Kerala High Court",
+    "year": 1997,
+    "summary": "Re Federalism Principles 1997 (17) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1996-FREE-SPEECH-016",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1998-WELFARE-RIGHTS-018",
+    "title": "Re Welfare Rights Principles 1998 (18)",
+    "court": "Supreme Court of India",
+    "year": 1998,
+    "summary": "Re Welfare Rights Principles 1998 (18) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1997-FEDERALISM-017",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1992-WELFARE-RIGHTS-012"
+    ]
+  },
+  {
+    "id": "IN-HC-1999-PRIVACY-019",
+    "title": "Re Privacy Principles 1999 (19)",
+    "court": "Bombay High Court",
+    "year": 1999,
+    "summary": "Re Privacy Principles 1999 (19) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1998-WELFARE-RIGHTS-018",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2000-EQUALITY-020",
+    "title": "Re Equality Principles 2000 (20)",
+    "court": "Karnataka High Court",
+    "year": 2000,
+    "summary": "Re Equality Principles 2000 (20) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1999-PRIVACY-019",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2001-CRIMINAL-JUSTICE-021",
+    "title": "Re Criminal Justice Principles 2001 (21)",
+    "court": "Madras High Court",
+    "year": 2001,
+    "summary": "Re Criminal Justice Principles 2001 (21) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1995-CRIMINAL-JUSTICE-015",
+      "IN-HC-2000-EQUALITY-020",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2002-FREE-SPEECH-022",
+    "title": "Re Free Speech Principles 2002 (22)",
+    "court": "Calcutta High Court",
+    "year": 2002,
+    "summary": "Re Free Speech Principles 2002 (22) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2001-CRIMINAL-JUSTICE-021",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2003-FEDERALISM-023",
+    "title": "Re Federalism Principles 2003 (23)",
+    "court": "Kerala High Court",
+    "year": 2003,
+    "summary": "Re Federalism Principles 2003 (23) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2002-FREE-SPEECH-022",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2004-WELFARE-RIGHTS-024",
+    "title": "Re Welfare Rights Principles 2004 (24)",
+    "court": "Supreme Court of India",
+    "year": 2004,
+    "summary": "Re Welfare Rights Principles 2004 (24) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2003-FEDERALISM-023",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1998-WELFARE-RIGHTS-018"
+    ]
+  },
+  {
+    "id": "IN-HC-2005-PRIVACY-025",
+    "title": "Re Privacy Principles 2005 (25)",
+    "court": "Bombay High Court",
+    "year": 2005,
+    "summary": "Re Privacy Principles 2005 (25) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2004-WELFARE-RIGHTS-024",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2006-EQUALITY-026",
+    "title": "Re Equality Principles 2006 (26)",
+    "court": "Karnataka High Court",
+    "year": 2006,
+    "summary": "Re Equality Principles 2006 (26) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2005-PRIVACY-025",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2007-CRIMINAL-JUSTICE-027",
+    "title": "Re Criminal Justice Principles 2007 (27)",
+    "court": "Madras High Court",
+    "year": 2007,
+    "summary": "Re Criminal Justice Principles 2007 (27) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2001-CRIMINAL-JUSTICE-021",
+      "IN-HC-2006-EQUALITY-026",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2008-FREE-SPEECH-028",
+    "title": "Re Free Speech Principles 2008 (28)",
+    "court": "Calcutta High Court",
+    "year": 2008,
+    "summary": "Re Free Speech Principles 2008 (28) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2007-CRIMINAL-JUSTICE-027",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2009-FEDERALISM-029",
+    "title": "Re Federalism Principles 2009 (29)",
+    "court": "Kerala High Court",
+    "year": 2009,
+    "summary": "Re Federalism Principles 2009 (29) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2008-FREE-SPEECH-028",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2010-WELFARE-RIGHTS-030",
+    "title": "Re Welfare Rights Principles 2010 (30)",
+    "court": "Supreme Court of India",
+    "year": 2010,
+    "summary": "Re Welfare Rights Principles 2010 (30) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2009-FEDERALISM-029",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2004-WELFARE-RIGHTS-024"
+    ]
+  },
+  {
+    "id": "IN-HC-2011-PRIVACY-031",
+    "title": "Re Privacy Principles 2011 (31)",
+    "court": "Bombay High Court",
+    "year": 2011,
+    "summary": "Re Privacy Principles 2011 (31) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2010-WELFARE-RIGHTS-030",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2012-EQUALITY-032",
+    "title": "Re Equality Principles 2012 (32)",
+    "court": "Karnataka High Court",
+    "year": 2012,
+    "summary": "Re Equality Principles 2012 (32) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2011-PRIVACY-031",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2013-CRIMINAL-JUSTICE-033",
+    "title": "Re Criminal Justice Principles 2013 (33)",
+    "court": "Madras High Court",
+    "year": 2013,
+    "summary": "Re Criminal Justice Principles 2013 (33) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2007-CRIMINAL-JUSTICE-027",
+      "IN-HC-2012-EQUALITY-032",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2014-FREE-SPEECH-034",
+    "title": "Re Free Speech Principles 2014 (34)",
+    "court": "Calcutta High Court",
+    "year": 2014,
+    "summary": "Re Free Speech Principles 2014 (34) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2013-CRIMINAL-JUSTICE-033",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2015-FEDERALISM-035",
+    "title": "Re Federalism Principles 2015 (35)",
+    "court": "Kerala High Court",
+    "year": 2015,
+    "summary": "Re Federalism Principles 2015 (35) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2014-FREE-SPEECH-034",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2016-WELFARE-RIGHTS-036",
+    "title": "Re Welfare Rights Principles 2016 (36)",
+    "court": "Supreme Court of India",
+    "year": 2016,
+    "summary": "Re Welfare Rights Principles 2016 (36) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2015-FEDERALISM-035",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2010-WELFARE-RIGHTS-030"
+    ]
+  },
+  {
+    "id": "IN-HC-2017-PRIVACY-037",
+    "title": "Re Privacy Principles 2017 (37)",
+    "court": "Bombay High Court",
+    "year": 2017,
+    "summary": "Re Privacy Principles 2017 (37) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2016-WELFARE-RIGHTS-036",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2018-EQUALITY-038",
+    "title": "Re Equality Principles 2018 (38)",
+    "court": "Karnataka High Court",
+    "year": 2018,
+    "summary": "Re Equality Principles 2018 (38) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2017-PRIVACY-037",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2019-CRIMINAL-JUSTICE-039",
+    "title": "Re Criminal Justice Principles 2019 (39)",
+    "court": "Madras High Court",
+    "year": 2019,
+    "summary": "Re Criminal Justice Principles 2019 (39) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2013-CRIMINAL-JUSTICE-033",
+      "IN-HC-2018-EQUALITY-038",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2020-FREE-SPEECH-040",
+    "title": "Re Free Speech Principles 2020 (40)",
+    "court": "Calcutta High Court",
+    "year": 2020,
+    "summary": "Re Free Speech Principles 2020 (40) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2019-CRIMINAL-JUSTICE-039",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2021-FEDERALISM-041",
+    "title": "Re Federalism Principles 2021 (41)",
+    "court": "Kerala High Court",
+    "year": 2021,
+    "summary": "Re Federalism Principles 2021 (41) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2020-FREE-SPEECH-040",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2022-WELFARE-RIGHTS-042",
+    "title": "Re Welfare Rights Principles 2022 (42)",
+    "court": "Supreme Court of India",
+    "year": 2022,
+    "summary": "Re Welfare Rights Principles 2022 (42) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2021-FEDERALISM-041",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2016-WELFARE-RIGHTS-036"
+    ]
+  },
+  {
+    "id": "IN-HC-2023-PRIVACY-043",
+    "title": "Re Privacy Principles 2023 (43)",
+    "court": "Bombay High Court",
+    "year": 2023,
+    "summary": "Re Privacy Principles 2023 (43) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY",
+      "IN-SC-2022-WELFARE-RIGHTS-042"
+    ]
+  },
+  {
+    "id": "IN-HC-2024-EQUALITY-044",
+    "title": "Re Equality Principles 2024 (44)",
+    "court": "Karnataka High Court",
+    "year": 2024,
+    "summary": "Re Equality Principles 2024 (44) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2023-PRIVACY-043",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1980-CRIMINAL-JUSTICE-045",
+    "title": "Re Criminal Justice Principles 1980 (45)",
+    "court": "Madras High Court",
+    "year": 1980,
+    "summary": "Re Criminal Justice Principles 1980 (45) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2019-CRIMINAL-JUSTICE-039",
+      "IN-HC-2024-EQUALITY-044",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1981-FREE-SPEECH-046",
+    "title": "Re Free Speech Principles 1981 (46)",
+    "court": "Calcutta High Court",
+    "year": 1981,
+    "summary": "Re Free Speech Principles 1981 (46) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1980-CRIMINAL-JUSTICE-045",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1982-FEDERALISM-047",
+    "title": "Re Federalism Principles 1982 (47)",
+    "court": "Kerala High Court",
+    "year": 1982,
+    "summary": "Re Federalism Principles 1982 (47) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1981-FREE-SPEECH-046",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1983-WELFARE-RIGHTS-048",
+    "title": "Re Welfare Rights Principles 1983 (48)",
+    "court": "Supreme Court of India",
+    "year": 1983,
+    "summary": "Re Welfare Rights Principles 1983 (48) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1982-FEDERALISM-047",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2022-WELFARE-RIGHTS-042"
+    ]
+  },
+  {
+    "id": "IN-HC-1984-PRIVACY-049",
+    "title": "Re Privacy Principles 1984 (49)",
+    "court": "Bombay High Court",
+    "year": 1984,
+    "summary": "Re Privacy Principles 1984 (49) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1983-WELFARE-RIGHTS-048",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1985-EQUALITY-050",
+    "title": "Re Equality Principles 1985 (50)",
+    "court": "Karnataka High Court",
+    "year": 1985,
+    "summary": "Re Equality Principles 1985 (50) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1984-PRIVACY-049",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1986-CRIMINAL-JUSTICE-051",
+    "title": "Re Criminal Justice Principles 1986 (51)",
+    "court": "Madras High Court",
+    "year": 1986,
+    "summary": "Re Criminal Justice Principles 1986 (51) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1980-CRIMINAL-JUSTICE-045",
+      "IN-HC-1985-EQUALITY-050",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1987-FREE-SPEECH-052",
+    "title": "Re Free Speech Principles 1987 (52)",
+    "court": "Calcutta High Court",
+    "year": 1987,
+    "summary": "Re Free Speech Principles 1987 (52) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1986-CRIMINAL-JUSTICE-051",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1988-FEDERALISM-053",
+    "title": "Re Federalism Principles 1988 (53)",
+    "court": "Kerala High Court",
+    "year": 1988,
+    "summary": "Re Federalism Principles 1988 (53) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1987-FREE-SPEECH-052",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1989-WELFARE-RIGHTS-054",
+    "title": "Re Welfare Rights Principles 1989 (54)",
+    "court": "Supreme Court of India",
+    "year": 1989,
+    "summary": "Re Welfare Rights Principles 1989 (54) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1988-FEDERALISM-053",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1983-WELFARE-RIGHTS-048"
+    ]
+  },
+  {
+    "id": "IN-HC-1990-PRIVACY-055",
+    "title": "Re Privacy Principles 1990 (55)",
+    "court": "Bombay High Court",
+    "year": 1990,
+    "summary": "Re Privacy Principles 1990 (55) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1989-WELFARE-RIGHTS-054",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1991-EQUALITY-056",
+    "title": "Re Equality Principles 1991 (56)",
+    "court": "Karnataka High Court",
+    "year": 1991,
+    "summary": "Re Equality Principles 1991 (56) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1990-PRIVACY-055",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1992-CRIMINAL-JUSTICE-057",
+    "title": "Re Criminal Justice Principles 1992 (57)",
+    "court": "Madras High Court",
+    "year": 1992,
+    "summary": "Re Criminal Justice Principles 1992 (57) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1986-CRIMINAL-JUSTICE-051",
+      "IN-HC-1991-EQUALITY-056",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1993-FREE-SPEECH-058",
+    "title": "Re Free Speech Principles 1993 (58)",
+    "court": "Calcutta High Court",
+    "year": 1993,
+    "summary": "Re Free Speech Principles 1993 (58) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1992-CRIMINAL-JUSTICE-057",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1994-FEDERALISM-059",
+    "title": "Re Federalism Principles 1994 (59)",
+    "court": "Kerala High Court",
+    "year": 1994,
+    "summary": "Re Federalism Principles 1994 (59) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1993-FREE-SPEECH-058",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1995-WELFARE-RIGHTS-060",
+    "title": "Re Welfare Rights Principles 1995 (60)",
+    "court": "Supreme Court of India",
+    "year": 1995,
+    "summary": "Re Welfare Rights Principles 1995 (60) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1994-FEDERALISM-059",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1989-WELFARE-RIGHTS-054"
+    ]
+  },
+  {
+    "id": "IN-HC-1996-PRIVACY-061",
+    "title": "Re Privacy Principles 1996 (61)",
+    "court": "Bombay High Court",
+    "year": 1996,
+    "summary": "Re Privacy Principles 1996 (61) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1995-WELFARE-RIGHTS-060",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1997-EQUALITY-062",
+    "title": "Re Equality Principles 1997 (62)",
+    "court": "Karnataka High Court",
+    "year": 1997,
+    "summary": "Re Equality Principles 1997 (62) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1996-PRIVACY-061",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1998-CRIMINAL-JUSTICE-063",
+    "title": "Re Criminal Justice Principles 1998 (63)",
+    "court": "Madras High Court",
+    "year": 1998,
+    "summary": "Re Criminal Justice Principles 1998 (63) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1992-CRIMINAL-JUSTICE-057",
+      "IN-HC-1997-EQUALITY-062",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1999-FREE-SPEECH-064",
+    "title": "Re Free Speech Principles 1999 (64)",
+    "court": "Calcutta High Court",
+    "year": 1999,
+    "summary": "Re Free Speech Principles 1999 (64) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1998-CRIMINAL-JUSTICE-063",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2000-FEDERALISM-065",
+    "title": "Re Federalism Principles 2000 (65)",
+    "court": "Kerala High Court",
+    "year": 2000,
+    "summary": "Re Federalism Principles 2000 (65) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1999-FREE-SPEECH-064",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2001-WELFARE-RIGHTS-066",
+    "title": "Re Welfare Rights Principles 2001 (66)",
+    "court": "Supreme Court of India",
+    "year": 2001,
+    "summary": "Re Welfare Rights Principles 2001 (66) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2000-FEDERALISM-065",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1995-WELFARE-RIGHTS-060"
+    ]
+  },
+  {
+    "id": "IN-HC-2002-PRIVACY-067",
+    "title": "Re Privacy Principles 2002 (67)",
+    "court": "Bombay High Court",
+    "year": 2002,
+    "summary": "Re Privacy Principles 2002 (67) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2001-WELFARE-RIGHTS-066",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2003-EQUALITY-068",
+    "title": "Re Equality Principles 2003 (68)",
+    "court": "Karnataka High Court",
+    "year": 2003,
+    "summary": "Re Equality Principles 2003 (68) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2002-PRIVACY-067",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2004-CRIMINAL-JUSTICE-069",
+    "title": "Re Criminal Justice Principles 2004 (69)",
+    "court": "Madras High Court",
+    "year": 2004,
+    "summary": "Re Criminal Justice Principles 2004 (69) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1998-CRIMINAL-JUSTICE-063",
+      "IN-HC-2003-EQUALITY-068",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2005-FREE-SPEECH-070",
+    "title": "Re Free Speech Principles 2005 (70)",
+    "court": "Calcutta High Court",
+    "year": 2005,
+    "summary": "Re Free Speech Principles 2005 (70) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2004-CRIMINAL-JUSTICE-069",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2006-FEDERALISM-071",
+    "title": "Re Federalism Principles 2006 (71)",
+    "court": "Kerala High Court",
+    "year": 2006,
+    "summary": "Re Federalism Principles 2006 (71) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2005-FREE-SPEECH-070",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2007-WELFARE-RIGHTS-072",
+    "title": "Re Welfare Rights Principles 2007 (72)",
+    "court": "Supreme Court of India",
+    "year": 2007,
+    "summary": "Re Welfare Rights Principles 2007 (72) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2006-FEDERALISM-071",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2001-WELFARE-RIGHTS-066"
+    ]
+  },
+  {
+    "id": "IN-HC-2008-PRIVACY-073",
+    "title": "Re Privacy Principles 2008 (73)",
+    "court": "Bombay High Court",
+    "year": 2008,
+    "summary": "Re Privacy Principles 2008 (73) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2007-WELFARE-RIGHTS-072",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2009-EQUALITY-074",
+    "title": "Re Equality Principles 2009 (74)",
+    "court": "Karnataka High Court",
+    "year": 2009,
+    "summary": "Re Equality Principles 2009 (74) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2008-PRIVACY-073",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2010-CRIMINAL-JUSTICE-075",
+    "title": "Re Criminal Justice Principles 2010 (75)",
+    "court": "Madras High Court",
+    "year": 2010,
+    "summary": "Re Criminal Justice Principles 2010 (75) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2004-CRIMINAL-JUSTICE-069",
+      "IN-HC-2009-EQUALITY-074",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2011-FREE-SPEECH-076",
+    "title": "Re Free Speech Principles 2011 (76)",
+    "court": "Calcutta High Court",
+    "year": 2011,
+    "summary": "Re Free Speech Principles 2011 (76) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2010-CRIMINAL-JUSTICE-075",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2012-FEDERALISM-077",
+    "title": "Re Federalism Principles 2012 (77)",
+    "court": "Kerala High Court",
+    "year": 2012,
+    "summary": "Re Federalism Principles 2012 (77) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2011-FREE-SPEECH-076",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2013-WELFARE-RIGHTS-078",
+    "title": "Re Welfare Rights Principles 2013 (78)",
+    "court": "Supreme Court of India",
+    "year": 2013,
+    "summary": "Re Welfare Rights Principles 2013 (78) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2012-FEDERALISM-077",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2007-WELFARE-RIGHTS-072"
+    ]
+  },
+  {
+    "id": "IN-HC-2014-PRIVACY-079",
+    "title": "Re Privacy Principles 2014 (79)",
+    "court": "Bombay High Court",
+    "year": 2014,
+    "summary": "Re Privacy Principles 2014 (79) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2013-WELFARE-RIGHTS-078",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2015-EQUALITY-080",
+    "title": "Re Equality Principles 2015 (80)",
+    "court": "Karnataka High Court",
+    "year": 2015,
+    "summary": "Re Equality Principles 2015 (80) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2014-PRIVACY-079",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2016-CRIMINAL-JUSTICE-081",
+    "title": "Re Criminal Justice Principles 2016 (81)",
+    "court": "Madras High Court",
+    "year": 2016,
+    "summary": "Re Criminal Justice Principles 2016 (81) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2010-CRIMINAL-JUSTICE-075",
+      "IN-HC-2015-EQUALITY-080",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2017-FREE-SPEECH-082",
+    "title": "Re Free Speech Principles 2017 (82)",
+    "court": "Calcutta High Court",
+    "year": 2017,
+    "summary": "Re Free Speech Principles 2017 (82) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2016-CRIMINAL-JUSTICE-081",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2018-FEDERALISM-083",
+    "title": "Re Federalism Principles 2018 (83)",
+    "court": "Kerala High Court",
+    "year": 2018,
+    "summary": "Re Federalism Principles 2018 (83) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2017-FREE-SPEECH-082",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2019-WELFARE-RIGHTS-084",
+    "title": "Re Welfare Rights Principles 2019 (84)",
+    "court": "Supreme Court of India",
+    "year": 2019,
+    "summary": "Re Welfare Rights Principles 2019 (84) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2018-FEDERALISM-083",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2013-WELFARE-RIGHTS-078"
+    ]
+  },
+  {
+    "id": "IN-HC-2020-PRIVACY-085",
+    "title": "Re Privacy Principles 2020 (85)",
+    "court": "Bombay High Court",
+    "year": 2020,
+    "summary": "Re Privacy Principles 2020 (85) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY",
+      "IN-SC-2019-WELFARE-RIGHTS-084"
+    ]
+  },
+  {
+    "id": "IN-HC-2021-EQUALITY-086",
+    "title": "Re Equality Principles 2021 (86)",
+    "court": "Karnataka High Court",
+    "year": 2021,
+    "summary": "Re Equality Principles 2021 (86) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2020-PRIVACY-085",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2022-CRIMINAL-JUSTICE-087",
+    "title": "Re Criminal Justice Principles 2022 (87)",
+    "court": "Madras High Court",
+    "year": 2022,
+    "summary": "Re Criminal Justice Principles 2022 (87) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2016-CRIMINAL-JUSTICE-081",
+      "IN-HC-2021-EQUALITY-086",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2023-FREE-SPEECH-088",
+    "title": "Re Free Speech Principles 2023 (88)",
+    "court": "Calcutta High Court",
+    "year": 2023,
+    "summary": "Re Free Speech Principles 2023 (88) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2022-CRIMINAL-JUSTICE-087",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2024-FEDERALISM-089",
+    "title": "Re Federalism Principles 2024 (89)",
+    "court": "Kerala High Court",
+    "year": 2024,
+    "summary": "Re Federalism Principles 2024 (89) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2023-FREE-SPEECH-088",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1980-WELFARE-RIGHTS-090",
+    "title": "Re Welfare Rights Principles 1980 (90)",
+    "court": "Supreme Court of India",
+    "year": 1980,
+    "summary": "Re Welfare Rights Principles 1980 (90) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2024-FEDERALISM-089",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2019-WELFARE-RIGHTS-084"
+    ]
+  },
+  {
+    "id": "IN-HC-1981-PRIVACY-091",
+    "title": "Re Privacy Principles 1981 (91)",
+    "court": "Bombay High Court",
+    "year": 1981,
+    "summary": "Re Privacy Principles 1981 (91) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1980-WELFARE-RIGHTS-090",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1982-EQUALITY-092",
+    "title": "Re Equality Principles 1982 (92)",
+    "court": "Karnataka High Court",
+    "year": 1982,
+    "summary": "Re Equality Principles 1982 (92) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1981-PRIVACY-091",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1983-CRIMINAL-JUSTICE-093",
+    "title": "Re Criminal Justice Principles 1983 (93)",
+    "court": "Madras High Court",
+    "year": 1983,
+    "summary": "Re Criminal Justice Principles 1983 (93) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1982-EQUALITY-092",
+      "IN-HC-2022-CRIMINAL-JUSTICE-087",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1984-FREE-SPEECH-094",
+    "title": "Re Free Speech Principles 1984 (94)",
+    "court": "Calcutta High Court",
+    "year": 1984,
+    "summary": "Re Free Speech Principles 1984 (94) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1983-CRIMINAL-JUSTICE-093",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1985-FEDERALISM-095",
+    "title": "Re Federalism Principles 1985 (95)",
+    "court": "Kerala High Court",
+    "year": 1985,
+    "summary": "Re Federalism Principles 1985 (95) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1984-FREE-SPEECH-094",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1986-WELFARE-RIGHTS-096",
+    "title": "Re Welfare Rights Principles 1986 (96)",
+    "court": "Supreme Court of India",
+    "year": 1986,
+    "summary": "Re Welfare Rights Principles 1986 (96) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1985-FEDERALISM-095",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1980-WELFARE-RIGHTS-090"
+    ]
+  },
+  {
+    "id": "IN-HC-1987-PRIVACY-097",
+    "title": "Re Privacy Principles 1987 (97)",
+    "court": "Bombay High Court",
+    "year": 1987,
+    "summary": "Re Privacy Principles 1987 (97) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1986-WELFARE-RIGHTS-096",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1988-EQUALITY-098",
+    "title": "Re Equality Principles 1988 (98)",
+    "court": "Karnataka High Court",
+    "year": 1988,
+    "summary": "Re Equality Principles 1988 (98) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1987-PRIVACY-097",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1989-CRIMINAL-JUSTICE-099",
+    "title": "Re Criminal Justice Principles 1989 (99)",
+    "court": "Madras High Court",
+    "year": 1989,
+    "summary": "Re Criminal Justice Principles 1989 (99) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1983-CRIMINAL-JUSTICE-093",
+      "IN-HC-1988-EQUALITY-098",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1990-FREE-SPEECH-100",
+    "title": "Re Free Speech Principles 1990 (100)",
+    "court": "Calcutta High Court",
+    "year": 1990,
+    "summary": "Re Free Speech Principles 1990 (100) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1989-CRIMINAL-JUSTICE-099",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1991-FEDERALISM-101",
+    "title": "Re Federalism Principles 1991 (101)",
+    "court": "Kerala High Court",
+    "year": 1991,
+    "summary": "Re Federalism Principles 1991 (101) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1990-FREE-SPEECH-100",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1992-WELFARE-RIGHTS-102",
+    "title": "Re Welfare Rights Principles 1992 (102)",
+    "court": "Supreme Court of India",
+    "year": 1992,
+    "summary": "Re Welfare Rights Principles 1992 (102) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1991-FEDERALISM-101",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1986-WELFARE-RIGHTS-096"
+    ]
+  },
+  {
+    "id": "IN-HC-1993-PRIVACY-103",
+    "title": "Re Privacy Principles 1993 (103)",
+    "court": "Bombay High Court",
+    "year": 1993,
+    "summary": "Re Privacy Principles 1993 (103) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1992-WELFARE-RIGHTS-102",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1994-EQUALITY-104",
+    "title": "Re Equality Principles 1994 (104)",
+    "court": "Karnataka High Court",
+    "year": 1994,
+    "summary": "Re Equality Principles 1994 (104) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1993-PRIVACY-103",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1995-CRIMINAL-JUSTICE-105",
+    "title": "Re Criminal Justice Principles 1995 (105)",
+    "court": "Madras High Court",
+    "year": 1995,
+    "summary": "Re Criminal Justice Principles 1995 (105) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1989-CRIMINAL-JUSTICE-099",
+      "IN-HC-1994-EQUALITY-104",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1996-FREE-SPEECH-106",
+    "title": "Re Free Speech Principles 1996 (106)",
+    "court": "Calcutta High Court",
+    "year": 1996,
+    "summary": "Re Free Speech Principles 1996 (106) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1995-CRIMINAL-JUSTICE-105",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1997-FEDERALISM-107",
+    "title": "Re Federalism Principles 1997 (107)",
+    "court": "Kerala High Court",
+    "year": 1997,
+    "summary": "Re Federalism Principles 1997 (107) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1996-FREE-SPEECH-106",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1998-WELFARE-RIGHTS-108",
+    "title": "Re Welfare Rights Principles 1998 (108)",
+    "court": "Supreme Court of India",
+    "year": 1998,
+    "summary": "Re Welfare Rights Principles 1998 (108) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1997-FEDERALISM-107",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1992-WELFARE-RIGHTS-102"
+    ]
+  },
+  {
+    "id": "IN-HC-1999-PRIVACY-109",
+    "title": "Re Privacy Principles 1999 (109)",
+    "court": "Bombay High Court",
+    "year": 1999,
+    "summary": "Re Privacy Principles 1999 (109) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1998-WELFARE-RIGHTS-108",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2000-EQUALITY-110",
+    "title": "Re Equality Principles 2000 (110)",
+    "court": "Karnataka High Court",
+    "year": 2000,
+    "summary": "Re Equality Principles 2000 (110) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1999-PRIVACY-109",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2001-CRIMINAL-JUSTICE-111",
+    "title": "Re Criminal Justice Principles 2001 (111)",
+    "court": "Madras High Court",
+    "year": 2001,
+    "summary": "Re Criminal Justice Principles 2001 (111) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1995-CRIMINAL-JUSTICE-105",
+      "IN-HC-2000-EQUALITY-110",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2002-FREE-SPEECH-112",
+    "title": "Re Free Speech Principles 2002 (112)",
+    "court": "Calcutta High Court",
+    "year": 2002,
+    "summary": "Re Free Speech Principles 2002 (112) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2001-CRIMINAL-JUSTICE-111",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2003-FEDERALISM-113",
+    "title": "Re Federalism Principles 2003 (113)",
+    "court": "Kerala High Court",
+    "year": 2003,
+    "summary": "Re Federalism Principles 2003 (113) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2002-FREE-SPEECH-112",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2004-WELFARE-RIGHTS-114",
+    "title": "Re Welfare Rights Principles 2004 (114)",
+    "court": "Supreme Court of India",
+    "year": 2004,
+    "summary": "Re Welfare Rights Principles 2004 (114) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2003-FEDERALISM-113",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1998-WELFARE-RIGHTS-108"
+    ]
+  },
+  {
+    "id": "IN-HC-2005-PRIVACY-115",
+    "title": "Re Privacy Principles 2005 (115)",
+    "court": "Bombay High Court",
+    "year": 2005,
+    "summary": "Re Privacy Principles 2005 (115) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2004-WELFARE-RIGHTS-114",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2006-EQUALITY-116",
+    "title": "Re Equality Principles 2006 (116)",
+    "court": "Karnataka High Court",
+    "year": 2006,
+    "summary": "Re Equality Principles 2006 (116) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2005-PRIVACY-115",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2007-CRIMINAL-JUSTICE-117",
+    "title": "Re Criminal Justice Principles 2007 (117)",
+    "court": "Madras High Court",
+    "year": 2007,
+    "summary": "Re Criminal Justice Principles 2007 (117) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2001-CRIMINAL-JUSTICE-111",
+      "IN-HC-2006-EQUALITY-116",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2008-FREE-SPEECH-118",
+    "title": "Re Free Speech Principles 2008 (118)",
+    "court": "Calcutta High Court",
+    "year": 2008,
+    "summary": "Re Free Speech Principles 2008 (118) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2007-CRIMINAL-JUSTICE-117",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2009-FEDERALISM-119",
+    "title": "Re Federalism Principles 2009 (119)",
+    "court": "Kerala High Court",
+    "year": 2009,
+    "summary": "Re Federalism Principles 2009 (119) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2008-FREE-SPEECH-118",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2010-WELFARE-RIGHTS-120",
+    "title": "Re Welfare Rights Principles 2010 (120)",
+    "court": "Supreme Court of India",
+    "year": 2010,
+    "summary": "Re Welfare Rights Principles 2010 (120) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2009-FEDERALISM-119",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2004-WELFARE-RIGHTS-114"
+    ]
+  },
+  {
+    "id": "IN-HC-2011-PRIVACY-121",
+    "title": "Re Privacy Principles 2011 (121)",
+    "court": "Bombay High Court",
+    "year": 2011,
+    "summary": "Re Privacy Principles 2011 (121) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2010-WELFARE-RIGHTS-120",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2012-EQUALITY-122",
+    "title": "Re Equality Principles 2012 (122)",
+    "court": "Karnataka High Court",
+    "year": 2012,
+    "summary": "Re Equality Principles 2012 (122) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2011-PRIVACY-121",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2013-CRIMINAL-JUSTICE-123",
+    "title": "Re Criminal Justice Principles 2013 (123)",
+    "court": "Madras High Court",
+    "year": 2013,
+    "summary": "Re Criminal Justice Principles 2013 (123) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2007-CRIMINAL-JUSTICE-117",
+      "IN-HC-2012-EQUALITY-122",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2014-FREE-SPEECH-124",
+    "title": "Re Free Speech Principles 2014 (124)",
+    "court": "Calcutta High Court",
+    "year": 2014,
+    "summary": "Re Free Speech Principles 2014 (124) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2013-CRIMINAL-JUSTICE-123",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2015-FEDERALISM-125",
+    "title": "Re Federalism Principles 2015 (125)",
+    "court": "Kerala High Court",
+    "year": 2015,
+    "summary": "Re Federalism Principles 2015 (125) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2014-FREE-SPEECH-124",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2016-WELFARE-RIGHTS-126",
+    "title": "Re Welfare Rights Principles 2016 (126)",
+    "court": "Supreme Court of India",
+    "year": 2016,
+    "summary": "Re Welfare Rights Principles 2016 (126) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2015-FEDERALISM-125",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2010-WELFARE-RIGHTS-120"
+    ]
+  },
+  {
+    "id": "IN-HC-2017-PRIVACY-127",
+    "title": "Re Privacy Principles 2017 (127)",
+    "court": "Bombay High Court",
+    "year": 2017,
+    "summary": "Re Privacy Principles 2017 (127) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2016-WELFARE-RIGHTS-126",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2018-EQUALITY-128",
+    "title": "Re Equality Principles 2018 (128)",
+    "court": "Karnataka High Court",
+    "year": 2018,
+    "summary": "Re Equality Principles 2018 (128) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2017-PRIVACY-127",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2019-CRIMINAL-JUSTICE-129",
+    "title": "Re Criminal Justice Principles 2019 (129)",
+    "court": "Madras High Court",
+    "year": 2019,
+    "summary": "Re Criminal Justice Principles 2019 (129) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2013-CRIMINAL-JUSTICE-123",
+      "IN-HC-2018-EQUALITY-128",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2020-FREE-SPEECH-130",
+    "title": "Re Free Speech Principles 2020 (130)",
+    "court": "Calcutta High Court",
+    "year": 2020,
+    "summary": "Re Free Speech Principles 2020 (130) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2019-CRIMINAL-JUSTICE-129",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2021-FEDERALISM-131",
+    "title": "Re Federalism Principles 2021 (131)",
+    "court": "Kerala High Court",
+    "year": 2021,
+    "summary": "Re Federalism Principles 2021 (131) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2020-FREE-SPEECH-130",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2022-WELFARE-RIGHTS-132",
+    "title": "Re Welfare Rights Principles 2022 (132)",
+    "court": "Supreme Court of India",
+    "year": 2022,
+    "summary": "Re Welfare Rights Principles 2022 (132) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2021-FEDERALISM-131",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2016-WELFARE-RIGHTS-126"
+    ]
+  },
+  {
+    "id": "IN-HC-2023-PRIVACY-133",
+    "title": "Re Privacy Principles 2023 (133)",
+    "court": "Bombay High Court",
+    "year": 2023,
+    "summary": "Re Privacy Principles 2023 (133) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY",
+      "IN-SC-2022-WELFARE-RIGHTS-132"
+    ]
+  },
+  {
+    "id": "IN-HC-2024-EQUALITY-134",
+    "title": "Re Equality Principles 2024 (134)",
+    "court": "Karnataka High Court",
+    "year": 2024,
+    "summary": "Re Equality Principles 2024 (134) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2023-PRIVACY-133",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1980-CRIMINAL-JUSTICE-135",
+    "title": "Re Criminal Justice Principles 1980 (135)",
+    "court": "Madras High Court",
+    "year": 1980,
+    "summary": "Re Criminal Justice Principles 1980 (135) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2019-CRIMINAL-JUSTICE-129",
+      "IN-HC-2024-EQUALITY-134",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1981-FREE-SPEECH-136",
+    "title": "Re Free Speech Principles 1981 (136)",
+    "court": "Calcutta High Court",
+    "year": 1981,
+    "summary": "Re Free Speech Principles 1981 (136) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1980-CRIMINAL-JUSTICE-135",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1982-FEDERALISM-137",
+    "title": "Re Federalism Principles 1982 (137)",
+    "court": "Kerala High Court",
+    "year": 1982,
+    "summary": "Re Federalism Principles 1982 (137) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1981-FREE-SPEECH-136",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1983-WELFARE-RIGHTS-138",
+    "title": "Re Welfare Rights Principles 1983 (138)",
+    "court": "Supreme Court of India",
+    "year": 1983,
+    "summary": "Re Welfare Rights Principles 1983 (138) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1982-FEDERALISM-137",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2022-WELFARE-RIGHTS-132"
+    ]
+  },
+  {
+    "id": "IN-HC-1984-PRIVACY-139",
+    "title": "Re Privacy Principles 1984 (139)",
+    "court": "Bombay High Court",
+    "year": 1984,
+    "summary": "Re Privacy Principles 1984 (139) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1983-WELFARE-RIGHTS-138",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1985-EQUALITY-140",
+    "title": "Re Equality Principles 1985 (140)",
+    "court": "Karnataka High Court",
+    "year": 1985,
+    "summary": "Re Equality Principles 1985 (140) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1984-PRIVACY-139",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1986-CRIMINAL-JUSTICE-141",
+    "title": "Re Criminal Justice Principles 1986 (141)",
+    "court": "Madras High Court",
+    "year": 1986,
+    "summary": "Re Criminal Justice Principles 1986 (141) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1980-CRIMINAL-JUSTICE-135",
+      "IN-HC-1985-EQUALITY-140",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1987-FREE-SPEECH-142",
+    "title": "Re Free Speech Principles 1987 (142)",
+    "court": "Calcutta High Court",
+    "year": 1987,
+    "summary": "Re Free Speech Principles 1987 (142) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1986-CRIMINAL-JUSTICE-141",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1988-FEDERALISM-143",
+    "title": "Re Federalism Principles 1988 (143)",
+    "court": "Kerala High Court",
+    "year": 1988,
+    "summary": "Re Federalism Principles 1988 (143) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1987-FREE-SPEECH-142",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1989-WELFARE-RIGHTS-144",
+    "title": "Re Welfare Rights Principles 1989 (144)",
+    "court": "Supreme Court of India",
+    "year": 1989,
+    "summary": "Re Welfare Rights Principles 1989 (144) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1988-FEDERALISM-143",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1983-WELFARE-RIGHTS-138"
+    ]
+  },
+  {
+    "id": "IN-HC-1990-PRIVACY-145",
+    "title": "Re Privacy Principles 1990 (145)",
+    "court": "Bombay High Court",
+    "year": 1990,
+    "summary": "Re Privacy Principles 1990 (145) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1989-WELFARE-RIGHTS-144",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1991-EQUALITY-146",
+    "title": "Re Equality Principles 1991 (146)",
+    "court": "Karnataka High Court",
+    "year": 1991,
+    "summary": "Re Equality Principles 1991 (146) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1990-PRIVACY-145",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1992-CRIMINAL-JUSTICE-147",
+    "title": "Re Criminal Justice Principles 1992 (147)",
+    "court": "Madras High Court",
+    "year": 1992,
+    "summary": "Re Criminal Justice Principles 1992 (147) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1986-CRIMINAL-JUSTICE-141",
+      "IN-HC-1991-EQUALITY-146",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1993-FREE-SPEECH-148",
+    "title": "Re Free Speech Principles 1993 (148)",
+    "court": "Calcutta High Court",
+    "year": 1993,
+    "summary": "Re Free Speech Principles 1993 (148) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1992-CRIMINAL-JUSTICE-147",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1994-FEDERALISM-149",
+    "title": "Re Federalism Principles 1994 (149)",
+    "court": "Kerala High Court",
+    "year": 1994,
+    "summary": "Re Federalism Principles 1994 (149) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1993-FREE-SPEECH-148",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1995-WELFARE-RIGHTS-150",
+    "title": "Re Welfare Rights Principles 1995 (150)",
+    "court": "Supreme Court of India",
+    "year": 1995,
+    "summary": "Re Welfare Rights Principles 1995 (150) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1994-FEDERALISM-149",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1989-WELFARE-RIGHTS-144"
+    ]
+  },
+  {
+    "id": "IN-HC-1996-PRIVACY-151",
+    "title": "Re Privacy Principles 1996 (151)",
+    "court": "Bombay High Court",
+    "year": 1996,
+    "summary": "Re Privacy Principles 1996 (151) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1995-WELFARE-RIGHTS-150",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1997-EQUALITY-152",
+    "title": "Re Equality Principles 1997 (152)",
+    "court": "Karnataka High Court",
+    "year": 1997,
+    "summary": "Re Equality Principles 1997 (152) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1996-PRIVACY-151",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1998-CRIMINAL-JUSTICE-153",
+    "title": "Re Criminal Justice Principles 1998 (153)",
+    "court": "Madras High Court",
+    "year": 1998,
+    "summary": "Re Criminal Justice Principles 1998 (153) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1992-CRIMINAL-JUSTICE-147",
+      "IN-HC-1997-EQUALITY-152",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1999-FREE-SPEECH-154",
+    "title": "Re Free Speech Principles 1999 (154)",
+    "court": "Calcutta High Court",
+    "year": 1999,
+    "summary": "Re Free Speech Principles 1999 (154) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1998-CRIMINAL-JUSTICE-153",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2000-FEDERALISM-155",
+    "title": "Re Federalism Principles 2000 (155)",
+    "court": "Kerala High Court",
+    "year": 2000,
+    "summary": "Re Federalism Principles 2000 (155) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1999-FREE-SPEECH-154",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2001-WELFARE-RIGHTS-156",
+    "title": "Re Welfare Rights Principles 2001 (156)",
+    "court": "Supreme Court of India",
+    "year": 2001,
+    "summary": "Re Welfare Rights Principles 2001 (156) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2000-FEDERALISM-155",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1995-WELFARE-RIGHTS-150"
+    ]
+  },
+  {
+    "id": "IN-HC-2002-PRIVACY-157",
+    "title": "Re Privacy Principles 2002 (157)",
+    "court": "Bombay High Court",
+    "year": 2002,
+    "summary": "Re Privacy Principles 2002 (157) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2001-WELFARE-RIGHTS-156",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2003-EQUALITY-158",
+    "title": "Re Equality Principles 2003 (158)",
+    "court": "Karnataka High Court",
+    "year": 2003,
+    "summary": "Re Equality Principles 2003 (158) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2002-PRIVACY-157",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2004-CRIMINAL-JUSTICE-159",
+    "title": "Re Criminal Justice Principles 2004 (159)",
+    "court": "Madras High Court",
+    "year": 2004,
+    "summary": "Re Criminal Justice Principles 2004 (159) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1998-CRIMINAL-JUSTICE-153",
+      "IN-HC-2003-EQUALITY-158",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2005-FREE-SPEECH-160",
+    "title": "Re Free Speech Principles 2005 (160)",
+    "court": "Calcutta High Court",
+    "year": 2005,
+    "summary": "Re Free Speech Principles 2005 (160) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2004-CRIMINAL-JUSTICE-159",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2006-FEDERALISM-161",
+    "title": "Re Federalism Principles 2006 (161)",
+    "court": "Kerala High Court",
+    "year": 2006,
+    "summary": "Re Federalism Principles 2006 (161) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2005-FREE-SPEECH-160",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2007-WELFARE-RIGHTS-162",
+    "title": "Re Welfare Rights Principles 2007 (162)",
+    "court": "Supreme Court of India",
+    "year": 2007,
+    "summary": "Re Welfare Rights Principles 2007 (162) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2006-FEDERALISM-161",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2001-WELFARE-RIGHTS-156"
+    ]
+  },
+  {
+    "id": "IN-HC-2008-PRIVACY-163",
+    "title": "Re Privacy Principles 2008 (163)",
+    "court": "Bombay High Court",
+    "year": 2008,
+    "summary": "Re Privacy Principles 2008 (163) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2007-WELFARE-RIGHTS-162",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2009-EQUALITY-164",
+    "title": "Re Equality Principles 2009 (164)",
+    "court": "Karnataka High Court",
+    "year": 2009,
+    "summary": "Re Equality Principles 2009 (164) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2008-PRIVACY-163",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2010-CRIMINAL-JUSTICE-165",
+    "title": "Re Criminal Justice Principles 2010 (165)",
+    "court": "Madras High Court",
+    "year": 2010,
+    "summary": "Re Criminal Justice Principles 2010 (165) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2004-CRIMINAL-JUSTICE-159",
+      "IN-HC-2009-EQUALITY-164",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2011-FREE-SPEECH-166",
+    "title": "Re Free Speech Principles 2011 (166)",
+    "court": "Calcutta High Court",
+    "year": 2011,
+    "summary": "Re Free Speech Principles 2011 (166) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2010-CRIMINAL-JUSTICE-165",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2012-FEDERALISM-167",
+    "title": "Re Federalism Principles 2012 (167)",
+    "court": "Kerala High Court",
+    "year": 2012,
+    "summary": "Re Federalism Principles 2012 (167) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2011-FREE-SPEECH-166",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2013-WELFARE-RIGHTS-168",
+    "title": "Re Welfare Rights Principles 2013 (168)",
+    "court": "Supreme Court of India",
+    "year": 2013,
+    "summary": "Re Welfare Rights Principles 2013 (168) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2012-FEDERALISM-167",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2007-WELFARE-RIGHTS-162"
+    ]
+  },
+  {
+    "id": "IN-HC-2014-PRIVACY-169",
+    "title": "Re Privacy Principles 2014 (169)",
+    "court": "Bombay High Court",
+    "year": 2014,
+    "summary": "Re Privacy Principles 2014 (169) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2013-WELFARE-RIGHTS-168",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2015-EQUALITY-170",
+    "title": "Re Equality Principles 2015 (170)",
+    "court": "Karnataka High Court",
+    "year": 2015,
+    "summary": "Re Equality Principles 2015 (170) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2014-PRIVACY-169",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2016-CRIMINAL-JUSTICE-171",
+    "title": "Re Criminal Justice Principles 2016 (171)",
+    "court": "Madras High Court",
+    "year": 2016,
+    "summary": "Re Criminal Justice Principles 2016 (171) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2010-CRIMINAL-JUSTICE-165",
+      "IN-HC-2015-EQUALITY-170",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2017-FREE-SPEECH-172",
+    "title": "Re Free Speech Principles 2017 (172)",
+    "court": "Calcutta High Court",
+    "year": 2017,
+    "summary": "Re Free Speech Principles 2017 (172) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2016-CRIMINAL-JUSTICE-171",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2018-FEDERALISM-173",
+    "title": "Re Federalism Principles 2018 (173)",
+    "court": "Kerala High Court",
+    "year": 2018,
+    "summary": "Re Federalism Principles 2018 (173) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2017-FREE-SPEECH-172",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2019-WELFARE-RIGHTS-174",
+    "title": "Re Welfare Rights Principles 2019 (174)",
+    "court": "Supreme Court of India",
+    "year": 2019,
+    "summary": "Re Welfare Rights Principles 2019 (174) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2018-FEDERALISM-173",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2013-WELFARE-RIGHTS-168"
+    ]
+  },
+  {
+    "id": "IN-HC-2020-PRIVACY-175",
+    "title": "Re Privacy Principles 2020 (175)",
+    "court": "Bombay High Court",
+    "year": 2020,
+    "summary": "Re Privacy Principles 2020 (175) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY",
+      "IN-SC-2019-WELFARE-RIGHTS-174"
+    ]
+  },
+  {
+    "id": "IN-HC-2021-EQUALITY-176",
+    "title": "Re Equality Principles 2021 (176)",
+    "court": "Karnataka High Court",
+    "year": 2021,
+    "summary": "Re Equality Principles 2021 (176) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2020-PRIVACY-175",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2022-CRIMINAL-JUSTICE-177",
+    "title": "Re Criminal Justice Principles 2022 (177)",
+    "court": "Madras High Court",
+    "year": 2022,
+    "summary": "Re Criminal Justice Principles 2022 (177) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2016-CRIMINAL-JUSTICE-171",
+      "IN-HC-2021-EQUALITY-176",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2023-FREE-SPEECH-178",
+    "title": "Re Free Speech Principles 2023 (178)",
+    "court": "Calcutta High Court",
+    "year": 2023,
+    "summary": "Re Free Speech Principles 2023 (178) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2022-CRIMINAL-JUSTICE-177",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2024-FEDERALISM-179",
+    "title": "Re Federalism Principles 2024 (179)",
+    "court": "Kerala High Court",
+    "year": 2024,
+    "summary": "Re Federalism Principles 2024 (179) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2023-FREE-SPEECH-178",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1980-WELFARE-RIGHTS-180",
+    "title": "Re Welfare Rights Principles 1980 (180)",
+    "court": "Supreme Court of India",
+    "year": 1980,
+    "summary": "Re Welfare Rights Principles 1980 (180) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2024-FEDERALISM-179",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2019-WELFARE-RIGHTS-174"
+    ]
+  },
+  {
+    "id": "IN-HC-1981-PRIVACY-181",
+    "title": "Re Privacy Principles 1981 (181)",
+    "court": "Bombay High Court",
+    "year": 1981,
+    "summary": "Re Privacy Principles 1981 (181) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1980-WELFARE-RIGHTS-180",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1982-EQUALITY-182",
+    "title": "Re Equality Principles 1982 (182)",
+    "court": "Karnataka High Court",
+    "year": 1982,
+    "summary": "Re Equality Principles 1982 (182) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1981-PRIVACY-181",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1983-CRIMINAL-JUSTICE-183",
+    "title": "Re Criminal Justice Principles 1983 (183)",
+    "court": "Madras High Court",
+    "year": 1983,
+    "summary": "Re Criminal Justice Principles 1983 (183) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1982-EQUALITY-182",
+      "IN-HC-2022-CRIMINAL-JUSTICE-177",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1984-FREE-SPEECH-184",
+    "title": "Re Free Speech Principles 1984 (184)",
+    "court": "Calcutta High Court",
+    "year": 1984,
+    "summary": "Re Free Speech Principles 1984 (184) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1983-CRIMINAL-JUSTICE-183",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1985-FEDERALISM-185",
+    "title": "Re Federalism Principles 1985 (185)",
+    "court": "Kerala High Court",
+    "year": 1985,
+    "summary": "Re Federalism Principles 1985 (185) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1984-FREE-SPEECH-184",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1986-WELFARE-RIGHTS-186",
+    "title": "Re Welfare Rights Principles 1986 (186)",
+    "court": "Supreme Court of India",
+    "year": 1986,
+    "summary": "Re Welfare Rights Principles 1986 (186) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1985-FEDERALISM-185",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1980-WELFARE-RIGHTS-180"
+    ]
+  },
+  {
+    "id": "IN-HC-1987-PRIVACY-187",
+    "title": "Re Privacy Principles 1987 (187)",
+    "court": "Bombay High Court",
+    "year": 1987,
+    "summary": "Re Privacy Principles 1987 (187) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1986-WELFARE-RIGHTS-186",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1988-EQUALITY-188",
+    "title": "Re Equality Principles 1988 (188)",
+    "court": "Karnataka High Court",
+    "year": 1988,
+    "summary": "Re Equality Principles 1988 (188) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1987-PRIVACY-187",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1989-CRIMINAL-JUSTICE-189",
+    "title": "Re Criminal Justice Principles 1989 (189)",
+    "court": "Madras High Court",
+    "year": 1989,
+    "summary": "Re Criminal Justice Principles 1989 (189) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1983-CRIMINAL-JUSTICE-183",
+      "IN-HC-1988-EQUALITY-188",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1990-FREE-SPEECH-190",
+    "title": "Re Free Speech Principles 1990 (190)",
+    "court": "Calcutta High Court",
+    "year": 1990,
+    "summary": "Re Free Speech Principles 1990 (190) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1989-CRIMINAL-JUSTICE-189",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1991-FEDERALISM-191",
+    "title": "Re Federalism Principles 1991 (191)",
+    "court": "Kerala High Court",
+    "year": 1991,
+    "summary": "Re Federalism Principles 1991 (191) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1990-FREE-SPEECH-190",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1992-WELFARE-RIGHTS-192",
+    "title": "Re Welfare Rights Principles 1992 (192)",
+    "court": "Supreme Court of India",
+    "year": 1992,
+    "summary": "Re Welfare Rights Principles 1992 (192) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1991-FEDERALISM-191",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1986-WELFARE-RIGHTS-186"
+    ]
+  },
+  {
+    "id": "IN-HC-1993-PRIVACY-193",
+    "title": "Re Privacy Principles 1993 (193)",
+    "court": "Bombay High Court",
+    "year": 1993,
+    "summary": "Re Privacy Principles 1993 (193) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1992-WELFARE-RIGHTS-192",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1994-EQUALITY-194",
+    "title": "Re Equality Principles 1994 (194)",
+    "court": "Karnataka High Court",
+    "year": 1994,
+    "summary": "Re Equality Principles 1994 (194) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1993-PRIVACY-193",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1995-CRIMINAL-JUSTICE-195",
+    "title": "Re Criminal Justice Principles 1995 (195)",
+    "court": "Madras High Court",
+    "year": 1995,
+    "summary": "Re Criminal Justice Principles 1995 (195) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1989-CRIMINAL-JUSTICE-189",
+      "IN-HC-1994-EQUALITY-194",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-1996-FREE-SPEECH-196",
+    "title": "Re Free Speech Principles 1996 (196)",
+    "court": "Calcutta High Court",
+    "year": 1996,
+    "summary": "Re Free Speech Principles 1996 (196) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1995-CRIMINAL-JUSTICE-195",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-1997-FEDERALISM-197",
+    "title": "Re Federalism Principles 1997 (197)",
+    "court": "Kerala High Court",
+    "year": 1997,
+    "summary": "Re Federalism Principles 1997 (197) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1996-FREE-SPEECH-196",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-1998-WELFARE-RIGHTS-198",
+    "title": "Re Welfare Rights Principles 1998 (198)",
+    "court": "Supreme Court of India",
+    "year": 1998,
+    "summary": "Re Welfare Rights Principles 1998 (198) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1997-FEDERALISM-197",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1992-WELFARE-RIGHTS-192"
+    ]
+  },
+  {
+    "id": "IN-HC-1999-PRIVACY-199",
+    "title": "Re Privacy Principles 1999 (199)",
+    "court": "Bombay High Court",
+    "year": 1999,
+    "summary": "Re Privacy Principles 1999 (199) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1998-WELFARE-RIGHTS-198",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2000-EQUALITY-200",
+    "title": "Re Equality Principles 2000 (200)",
+    "court": "Karnataka High Court",
+    "year": 2000,
+    "summary": "Re Equality Principles 2000 (200) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1999-PRIVACY-199",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2001-CRIMINAL-JUSTICE-201",
+    "title": "Re Criminal Justice Principles 2001 (201)",
+    "court": "Madras High Court",
+    "year": 2001,
+    "summary": "Re Criminal Justice Principles 2001 (201) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-1995-CRIMINAL-JUSTICE-195",
+      "IN-HC-2000-EQUALITY-200",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2002-FREE-SPEECH-202",
+    "title": "Re Free Speech Principles 2002 (202)",
+    "court": "Calcutta High Court",
+    "year": 2002,
+    "summary": "Re Free Speech Principles 2002 (202) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2001-CRIMINAL-JUSTICE-201",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2003-FEDERALISM-203",
+    "title": "Re Federalism Principles 2003 (203)",
+    "court": "Kerala High Court",
+    "year": 2003,
+    "summary": "Re Federalism Principles 2003 (203) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2002-FREE-SPEECH-202",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2004-WELFARE-RIGHTS-204",
+    "title": "Re Welfare Rights Principles 2004 (204)",
+    "court": "Supreme Court of India",
+    "year": 2004,
+    "summary": "Re Welfare Rights Principles 2004 (204) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2003-FEDERALISM-203",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-1998-WELFARE-RIGHTS-198"
+    ]
+  },
+  {
+    "id": "IN-HC-2005-PRIVACY-205",
+    "title": "Re Privacy Principles 2005 (205)",
+    "court": "Bombay High Court",
+    "year": 2005,
+    "summary": "Re Privacy Principles 2005 (205) examines privacy, data protection and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2004-WELFARE-RIGHTS-204",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2006-EQUALITY-206",
+    "title": "Re Equality Principles 2006 (206)",
+    "court": "Karnataka High Court",
+    "year": 2006,
+    "summary": "Re Equality Principles 2006 (206) examines equal protection, non-discrimination and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2005-PRIVACY-205",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2007-CRIMINAL-JUSTICE-207",
+    "title": "Re Criminal Justice Principles 2007 (207)",
+    "court": "Madras High Court",
+    "year": 2007,
+    "summary": "Re Criminal Justice Principles 2007 (207) examines bail jurisprudence, fair trial and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2001-CRIMINAL-JUSTICE-201",
+      "IN-HC-2006-EQUALITY-206",
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-HC-2008-FREE-SPEECH-208",
+    "title": "Re Free Speech Principles 2008 (208)",
+    "court": "Calcutta High Court",
+    "year": 2008,
+    "summary": "Re Free Speech Principles 2008 (208) examines Article 19(1)(a), reasonable restrictions and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2007-CRIMINAL-JUSTICE-207",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2017-PUTTASWAMY"
+    ]
+  },
+  {
+    "id": "IN-HC-2009-FEDERALISM-209",
+    "title": "Re Federalism Principles 2009 (209)",
+    "court": "Kerala High Court",
+    "year": 2009,
+    "summary": "Re Federalism Principles 2009 (209) examines state autonomy, legislative competence and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2008-FREE-SPEECH-208",
+      "IN-SC-1973-KESAVANANDA"
+    ]
+  },
+  {
+    "id": "IN-SC-2010-WELFARE-RIGHTS-210",
+    "title": "Re Welfare Rights Principles 2010 (210)",
+    "court": "Supreme Court of India",
+    "year": 2010,
+    "summary": "Re Welfare Rights Principles 2010 (210) examines right to livelihood, social security and proportionality under Indian constitutional framework. The judgment emphasizes doctrine continuity, forum-appropriate remedies, and Article 14/19/21 harmonization.",
+    "citations": [
+      "IN-HC-2009-FEDERALISM-209",
+      "IN-SC-1978-MANEKA-GANDHI",
+      "IN-SC-2004-WELFARE-RIGHTS-204"
+    ]
+  },
+  {
+    "id": "IN-SC-2013-DIGITAL-PRIVACY-BASELINE",
+    "title": "Digital Privacy Baseline v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2013,
+    "summary": "Set an early constitutional baseline for privacy safeguards in government digital systems.",
+    "citations": [
+      "IN-SC-1978-MANEKA-GANDHI"
+    ]
+  },
+  {
+    "id": "IN-SC-2014-CITIZEN-DATA-ACCESS",
+    "title": "Citizen Data Access Forum v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2014,
+    "summary": "Clarified procedural fairness and transparency duties when citizen data is collected by state systems.",
+    "citations": [
+      "IN-SC-2013-DIGITAL-PRIVACY-BASELINE"
+    ]
+  },
+  {
+    "id": "IN-SC-2015-STATE-SURVEILLANCE-LIMITS",
+    "title": "State Surveillance Limits Association v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2015,
+    "summary": "Introduced proportionality constraints for surveillance powers and required stronger rights safeguards.",
+    "citations": [
+      "IN-SC-2014-CITIZEN-DATA-ACCESS"
+    ]
+  },
+  {
+    "id": "IN-SC-2016-PROPORTIONALITY-TEST-REFINEMENT",
+    "title": "Proportionality Test Refinement v. State",
+    "court": "Supreme Court of India",
+    "year": 2016,
+    "summary": "Refined constitutional proportionality review for balancing privacy, liberty and public interest.",
+    "citations": [
+      "IN-SC-2015-STATE-SURVEILLANCE-LIMITS"
+    ]
+  },
+  {
+    "id": "IN-SC-2017-PUBLIC-INTEREST-DATA-BALANCE",
+    "title": "Public Interest Data Balance v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2017,
+    "summary": "Balanced welfare governance objectives with individual privacy rights under constitutional scrutiny.",
+    "citations": [
+      "IN-SC-2016-PROPORTIONALITY-TEST-REFINEMENT"
+    ]
+  },
+  {
+    "id": "IN-SC-2018-ALGORITHMIC-GOVERNANCE-REVIEW",
+    "title": "Algorithmic Governance Review v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2018,
+    "summary": "Applied rights-based review to algorithmic public systems and required accountability safeguards.",
+    "citations": [
+      "IN-SC-2017-PUBLIC-INTEREST-DATA-BALANCE"
+    ]
+  },
+  {
+    "id": "IN-SC-2019-DIGNITY-IN-DIGITAL-SYSTEMS",
+    "title": "Dignity in Digital Systems v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2019,
+    "summary": "Connected data governance with constitutional dignity and anti-arbitrariness requirements.",
+    "citations": [
+      "IN-SC-2018-ALGORITHMIC-GOVERNANCE-REVIEW"
+    ]
+  },
+  {
+    "id": "IN-SC-2021-DIGITAL-RIGHTS-ACCOUNTABILITY",
+    "title": "Digital Rights Accountability Council v. Union of India",
+    "court": "Supreme Court of India",
+    "year": 2021,
+    "summary": "Consolidated privacy, fairness and proportionality principles into a rights-accountability standard.",
+    "citations": [
+      "IN-SC-2019-DIGNITY-IN-DIGITAL-SYSTEMS"
+    ]
+  }
+]
